@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195143019177",
+    "project_id": "bc999-online",
+    "storage_bucket": "bc999-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195143019177:android:938979bf2bbc4fc4d217b8",
+        "android_client_info": {
+          "package_name": "com.banca.banca999.banca2donline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjB9aC_5Ca8mQ6GH4d8n5K5YV24P-ppzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
